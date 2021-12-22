@@ -1,6 +1,7 @@
 # Sweets Shop Website With Cart Functionality
 
 > clear cart functionality still need to add
+> ![sweets-shop-website](https://github.com/ikramdeveloper/Sweets-Shop-JS/blob/master/sweets-shop.png?raw=true)
 
 #### Languages / Frameworks / Technologies:
 
